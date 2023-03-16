@@ -1,5 +1,6 @@
 ---
 published: true
+title: First Post :)
 ---
 # First Post :)
 
